@@ -1,0 +1,7 @@
+interface:
+  display_name: "合作者"
+  short_description: "A practical human–AI collaboration protocol"
+  default_prompt: "Use $ai-collaboration-protocol to help me work through this task."
+
+policy:
+  allow_implicit_invocation: true
