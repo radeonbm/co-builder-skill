@@ -1,4 +1,4 @@
-# Install Co-builder
+# 安装 AI 合作者 / Install AI Co-builder
 
 The source of truth is the `ai-collaboration-protocol` folder under `.agents/skills/`. Keep `SKILL.md`, `references/`, and `agents/` together when copying it.
 

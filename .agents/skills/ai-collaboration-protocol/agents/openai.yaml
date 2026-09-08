@@ -1,6 +1,6 @@
 interface:
-  display_name: "合作者"
-  short_description: "A practical human–AI collaboration protocol"
+  display_name: "AI 合作者"
+  short_description: "Intent-first collaboration for humans and AI"
   default_prompt: "Use $ai-collaboration-protocol to help me work through this task."
 
 policy:

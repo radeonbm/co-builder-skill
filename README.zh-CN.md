@@ -1,4 +1,4 @@
-# 合作者 / Co-builder
+# AI 合作者 / AI Co-builder
 
 > 愿景仍然属于人，让 AI 把工作真正往前推进。
 
